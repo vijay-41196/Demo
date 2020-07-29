@@ -6,6 +6,7 @@ public class BankInfo extends AxisBank {
 }
 	public void fixed() {
 		System.out.println("Amount");
+		System.out.println("cash");
 	}
 	public void deposite() {
 		System.out.println("Rupee");
